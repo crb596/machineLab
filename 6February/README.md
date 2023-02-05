@@ -1,6 +1,6 @@
-#Cardboard Automata
+# Cardboard Automata
 
-##Build
+## Build
 
 This project was my first introduction to several new building techniques including working with cardboard building moving parts in a mechanical system from scratch. I was very surprised at how well the cardboard work and how strong it can be when supported.There is considerable movement in the project and it holds up fine just with hot glue. For the slider, I was inspired by the wheels of old steam trains and tried to make everything inline. I was very happy with how this came out and think it was the most fun part of the project to design. Pinning the cardboard with the dowels made for smooth movement and kept everything very orderly. Here is a picture of the crank connected to the connecting arm.
 
