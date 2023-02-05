@@ -14,7 +14,7 @@ Here is a video overview of the whole system working!
 
 [Working Video](https://drive.google.com/file/d/1mUbmJyq3avfRLkzrDRfZjcy5qt3FCA9C/view?usp=sharing)
 
-##Failure Points
+## Failure Points
 
 The first issue I had was with the design of the slider and connecting arm. I realized the ratio is very important to get right. Originally my cam was far too big and my connecting arm was far too small meaning the slider had very little chance to move horizontally and would have a lot of vertical force on it causing failure. I ended up making the connecting arm a lot bigger by extending the base and shortening down the crank which resolved that issue.
 
