@@ -17,7 +17,7 @@ Lighting under the piece would make it really pop at night (statues on highway b
 
 ### Diagram of movement
 
-![diagram](https://drive.google.com/file/d/1tl0uZoe9VqZQQVvsn9EUS-1SFsMVmHVK/view?usp=sharing)
+![diagram](https://drive.google.com/uc?export=view&id={1tl0uZoe9VqZQQVvsn9EUS-1SFsMVmHVK})
 
 ### Inspiration Photos
 
