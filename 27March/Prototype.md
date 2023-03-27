@@ -20,5 +20,5 @@ Video:
 
 https://drive.google.com/file/d/1xyGdYrMQYVVCqCNYzl6ZB1EyGKh_Oplf/view?usp=sharing
 
-![Example](https://drive.google.com/uc?export=view&id=11gdfCm4z4ePJQWJ_Uo1d3rTKTnxYmk3X)
+![Example](https://drive.google.com/uc?export=view&id=1iw_1PegmMrpi-Z6CXt3u_Do7aECzEveS)
 
