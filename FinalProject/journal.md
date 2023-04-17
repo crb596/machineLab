@@ -32,11 +32,11 @@ One of the biggest challenges I had was moving a mesh to fusion360 object. I fig
 Here are photos of the progress
 
 Hull
-![Hull](https://drive.google.com/uc?export=view&id=[13AgnJ-oITg3wviCzRIYubaYskChiMl9N])
+![Hull](https://drive.google.com/uc?export=view&id=13AgnJ-oITg3wviCzRIYubaYskChiMl9N)
 
 Deck on the ship
-![Deck](https://drive.google.com/uc?export=view&id=[1G26Y5Yb0bE_CbIolMsJyqs7LT7Xho-yt])
+![Deck](https://drive.google.com/uc?export=view&id=1G26Y5Yb0bE_CbIolMsJyqs7LT7Xho-yt)
 
 Decorations on the ship
-![Decor](https://drive.google.com/uc?export=view&id=[1qdnt6q3wtOX3uaNkMfByjJshdjzXG5DG])
+![Decor](https://drive.google.com/uc?export=view&id=1qdnt6q3wtOX3uaNkMfByjJshdjzXG5DG)
 
