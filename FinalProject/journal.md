@@ -16,6 +16,6 @@ I also changed the design of how the sails will work a bit. I still want to use 
 
 Here is a nice video of tacking with lateen sails which is what I want to recreate. In this case, when they are switching to a port tack, they are not detatching the sail from the port side and moving it over but rather letting it back up onto the mast. As disconnecting would be hard with motors, this will be the effect I am going for.
 
-[VIDEO]
+[VIDEO]](https://www.youtube.com/watch?v=9Y9-Idmh3xA&ab_channel=TheBoatRambler)
 
 This upcoming class/weekend I want the prototype and cad completly done so that when I come to class on Tuesday I can focus on producing parts that are for the final example.
