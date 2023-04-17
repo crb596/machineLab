@@ -10,8 +10,8 @@
 
 ### Week of April 9th
 
-- Finish prototype
-- Finish hull design in CAD
+- Finish prototype (done)
+- Finish hull design in CAD (done)
 
 ### Week of April 16th
 
